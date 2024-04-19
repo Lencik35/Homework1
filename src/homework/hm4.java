@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package homework;
+
 //adkskdjakjsdbh877dasdasd
 
 public class hm4 {
