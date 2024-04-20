@@ -18,12 +18,11 @@ public class ex3 {
                 System.out.printf("Maximum Number is " + n2);
                 break;
             case 1:
-                System.out.println("Both are Equals");
-                break;}
+                System.out.println("Maximum Number is " + n1);
+                break;
+        }
 
-        case 3:
-        System.out.printf("Maximum Number is " + n1);
-        break;
+
     }
 }
 
