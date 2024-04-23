@@ -9,6 +9,7 @@ public class ex5 {
 
         {
             product= nr*i;
+
             System.out.printf(nr + "*"+i +"=" + product);
         }
     }
